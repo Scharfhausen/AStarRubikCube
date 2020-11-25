@@ -1,0 +1,262 @@
+[('y', 0, 2), ('y', 0, 2), ('x', 0, 2), ('y', 2, -1)]
+End of iteration 1
+End of iteration 2
+['y21', 'x02']
+Cube solved!
+
+
+
+-----------------
+
+
+
+
+[('z', 2, 2), ('y', 0, -1), ('z', 0, 0), ('x', 2, 1)]
+End of iteration 1
+End of iteration 2
+End of iteration 3
+['x23', 'y01', 'z22']
+Cube solved!
+
+
+
+-----------------
+
+
+[('z', 2, 0), ('x', 2, 0), ('x', 0, -1), ('y', 0, 1)]
+End of iteration 1
+End of iteration 2
+['y03', 'x01']
+Cube solved!
+
+
+
+
+
+-------------------
+
+
+
+[('z', 2, 2), ('z', 2, 1), ('x', 0, 2), ('z', 0, 1)]
+End of iteration 1. The current node F is 0
+End of iteration 2. The current node F is 22
+End of iteration 3. The current node F is 16
+End of iteration 4. The current node F is 20
+End of iteration 5. The current node F is 18
+End of iteration 6. The current node F is 22
+End of iteration 7. The current node F is 18
+End of iteration 8. The current node F is 22
+End of iteration 9. The current node F is 17
+End of iteration 10. The current node F is 21
+End of iteration 11. The current node F is 22
+End of iteration 12. The current node F is 19
+End of iteration 13. The current node F is 22
+End of iteration 14. The current node F is 20
+End of iteration 15. The current node F is 22
+End of iteration 16. The current node F is 20
+End of iteration 17. The current node F is 22
+End of iteration 18. The current node F is 20
+End of iteration 19. The current node F is 22
+End of iteration 20. The current node F is 23
+End of iteration 21. The current node F is 14
+['z03', 'x02', 'z21']
+Cube solved!
+
+
+-------------------
+
+
+
+
+[('y', 0, -1), ('x', 0, 1), ('z', 0, 2), ('y', 0, -1)]
+End of iteration 1. The current node F is 0
+End of iteration 2. The current node F is 28
+End of iteration 3. The current node F is 26
+End of iteration 4. The current node F is 27
+End of iteration 5. The current node F is 22
+End of iteration 6. The current node F is 27
+End of iteration 7. The current node F is 26
+End of iteration 8. The current node F is 27
+End of iteration 9. The current node F is 25
+End of iteration 10. The current node F is 27
+End of iteration 11. The current node F is 27
+End of iteration 12. The current node F is 28
+End of iteration 13. The current node F is 26
+End of iteration 14. The current node F is 27
+End of iteration 15. The current node F is 28
+End of iteration 16. The current node F is 24
+End of iteration 17. The current node F is 28
+End of iteration 18. The current node F is 23
+End of iteration 19. The current node F is 28
+End of iteration 20. The current node F is 24
+End of iteration 21. The current node F is 28
+End of iteration 22. The current node F is 24
+End of iteration 23. The current node F is 28
+End of iteration 24. The current node F is 24
+End of iteration 25. The current node F is 28
+End of iteration 26. The current node F is 25
+End of iteration 27. The current node F is 28
+End of iteration 28. The current node F is 24
+End of iteration 29. The current node F is 28
+End of iteration 30. The current node F is 25
+End of iteration 31. The current node F is 28
+End of iteration 32. The current node F is 28
+End of iteration 33. The current node F is 28
+End of iteration 34. The current node F is 26
+End of iteration 35. The current node F is 28
+End of iteration 36. The current node F is 27
+End of iteration 37. The current node F is 28
+End of iteration 38. The current node F is 28
+End of iteration 39. The current node F is 28
+End of iteration 40. The current node F is 28
+End of iteration 41. The current node F is 28
+End of iteration 42. The current node F is 28
+End of iteration 43. The current node F is 29
+End of iteration 44. The current node F is 24
+End of iteration 45. The current node F is 16
+['y01', 'z02', 'x03', 'y01']
+Cube solved!
+
+
+-------------------
+
+
+[('y', 2, 0), ('x', 0, 2), ('y', 0, 1), ('z', 2, 1)]
+End of iteration 1. The current node F is 0
+End of iteration 2. The current node F is 23
+End of iteration 3. The current node F is 20
+End of iteration 4. The current node F is 21
+End of iteration 5. The current node F is 21
+End of iteration 6. The current node F is 23
+End of iteration 7. The current node F is 14
+['z23', 'y03', 'x02']
+Cube solved!
+
+
+-------------------
+
+
+[('x', 0, 1), ('x', 0, 0), ('y', 0, 1), ('x', 2, 1)]
+End of iteration 1. The current node F is 0
+End of iteration 2. The current node F is 23
+End of iteration 3. The current node F is 14
+['x23', 'y03', 'x03']
+Cube solved!
+
+
+--------------------
+
+
+
+[('y', 2, 1), ('y', 2, 0), ('z', 0, 2), ('x', 0, 2)]
+End of iteration 1. The current node F is 0
+End of iteration 2. The current node F is 23
+End of iteration 3. The current node F is 15
+['x02', 'z02', 'y23']
+Cube solved!
+
+---------------------
+
+
+[('x', 2, 1), ('z', 0, 2), ('x', 2, -1), ('x', 0, 1)]
+End of iteration 1. The current node F is 0
+End of iteration 2. The current node F is 19
+End of iteration 3. The current node F is 17
+.
+.
+.
+End of iteration 335. The current node F is 15
+['x03', 'x21', 'z02', 'x23']
+Cube solved!
+
+
+----------------------
+
+
+[('z', 2, 0), ('x', 2, 2), ('z', 2, 1), ('x', 2, 2)]
+End of iteration 1. The current node F is 0
+End of iteration 2. The current node F is 16
+.
+.
+.
+End of iteration 618. The current node F is 15
+['x22', 'z23', 'x22']
+Cube solved!
+
+
+----------------------
+
+[('y', 2, -1), ('z', 2, 2), ('y', 2, 2), ('y', 0, 2)]
+End of iteration 1. The current node F is 0
+End of iteration 2. The current node F is 24
+End of iteration 3. The current node F is 21
+End of iteration 4. The current node F is 19
+End of iteration 5. The current node F is 19
+End of iteration 6. The current node F is 22
+End of iteration 7. The current node F is 21
+End of iteration 8. The current node F is 23
+End of iteration 9. The current node F is 20
+End of iteration 10. The current node F is 21
+End of iteration 11. The current node F is 21
+End of iteration 12. The current node F is 22
+End of iteration 13. The current node F is 21
+End of iteration 14. The current node F is 23
+End of iteration 15. The current node F is 23
+End of iteration 16. The current node F is 24
+End of iteration 17. The current node F is 23
+End of iteration 18. The current node F is 24
+End of iteration 19. The current node F is 23
+End of iteration 20. The current node F is 23
+End of iteration 21. The current node F is 24
+End of iteration 22. The current node F is 22
+End of iteration 23. The current node F is 23
+End of iteration 24. The current node F is 23
+End of iteration 25. The current node F is 24
+End of iteration 26. The current node F is 22
+End of iteration 27. The current node F is 24
+End of iteration 28. The current node F is 23
+End of iteration 29. The current node F is 24
+End of iteration 30. The current node F is 23
+End of iteration 31. The current node F is 24
+End of iteration 32. The current node F is 23
+End of iteration 33. The current node F is 24
+End of iteration 34. The current node F is 23
+End of iteration 35. The current node F is 24
+End of iteration 36. The current node F is 23
+End of iteration 37. The current node F is 24
+End of iteration 38. The current node F is 23
+End of iteration 39. The current node F is 25
+End of iteration 40. The current node F is 17
+['y02', 'y22', 'z22', 'y21']
+Cube solved!
+
+
+
+--------------------------
+
+
+[('z', 2, 0), ('z', 0, 1), ('y', 2, -1), ('z', 0, -1)]
+End of iteration 1. The current node F is 0
+End of iteration 2. The current node F is 14
+.
+.
+.
+End of iteration 527. The current node F is 14
+['z01', 'y21', 'z03']
+Cube solved!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
