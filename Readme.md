@@ -5,7 +5,7 @@ The code was developed for AI teaching purpose.
 
 *Also I have included a code file adapted from David Hogg <https://github.com/davidwhogg/MagicCube> to allow the 3D visualization of the cube
 
-*prof.: Miguel Hernando (2017)*
+*Jorge Scharfhausen (2017)*
 
 ### LIB REQUIREMENTS: 
 **Numpy** is used for face representation and operation **Matplotlib** only for drawing.
@@ -13,14 +13,6 @@ The code was developed for AI teaching purpose.
 pip3 install numpy
 pip3 install mathplotlib
 ```
-
-
-
-Universidad Politécnica de Madrid
-
-
-<https://github.com/mhernando/pyRubikSim>
-
  
 ### STATE CONVENTIONS:
 

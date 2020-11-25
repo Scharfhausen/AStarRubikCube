@@ -3,7 +3,7 @@
 # Written by Jake Vanderplas
 # Adapted from cube code written by David Hogg
 #   https://github.com/davidwhogg/MagicCube
-# Adapted by Miguel Hernando (Python 3 )
+# Adapted by Jorge Scharfhausen (Python 3 )
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import widgets

@@ -2,11 +2,10 @@
 # Rubik's cube simulator
 # Numpy is used for face representation and operation
 # Matplotlib only for plotting
-# Written by Miguel Hernando (2017)
+# Written by Jorge Scharfhausen (2017)
 # The aim of this code is to give a simple rubik cube simulator to
 # test Discrete Planning Techniques.
-# The code was developed for AI teaching purpose.
-# Universidad Politecnica de Madrid
+
 
 import numpy as np
 import matplotlib.pyplot as plt
